@@ -19,10 +19,10 @@ A **WIP** VR game streamer utilizing Shadow Cloud game streamer.
   - [ ] Discord Rich Presence
 
 ## Installation
-NOT AVAILABLE YET
+**NOT AVAILABLE YET**
 
 ## Uninstallation
-Delete the directory files.
+**NOT AVAILABLE YET**
 
 ## Progression
 Progression found in the [project](https://github.com/users/jacoblontoc/projects/2)
