@@ -2,7 +2,6 @@
 Feel free to fork the project, just make sure you keep my name in the license.
 
 # portHMD 
-[![version](https://img.shields.io/github/v/release/jacoblontoc/portHMD-A0.3-blue](https://github.com/jacoblontoc/portHMD/releases/latest)
 
 A **WIP** VR game streamer utilizing Shadow Cloud game streamer.
 
